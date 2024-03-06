@@ -1,0 +1,11 @@
+creating project
+
+create folder
+
+pip env install django
+
+django-admin startproject .
+
+python manage.py runserver 8000
+
+configure
